@@ -23,20 +23,15 @@ This is a simple HotelManagement tool that utilizes data from/to the sql databas
  
 # Open Source frameworks:
 * Modern UI - most of the metro UI implimented using this open source framework
-* license under: MIT - http://github.com/viperneo
-
-* Twilio - this framework by twilio was used to send recipt via text 
-* https://www.twilio.com/
- 
 
 #[Screenshots]
 
-![Alt text](https://raw.githubusercontent.com/nazimamin/HotelManagement/master/HotelManagement/assets/login.PNG "Login window")
-![ScreenShot](https://raw.githubusercontent.com/nazimamin/HotelManagement/master/HotelManagement/assets/payment.PNG "Payment window")
-![ScreenShot](https://raw.githubusercontent.com/nazimamin/HotelManagement/master/HotelManagement/assets/food.PNG "Food selection window")
-![ScreenShot](https://raw.githubusercontent.com/nazimamin/HotelManagement/master/HotelManagement/assets/front.PNG "Front reservation window")
-![ScreenShot](https://raw.githubusercontent.com/nazimamin/HotelManagement/master/HotelManagement/assets/roomservice.PNG "Room service window")
-![ScreenShot](https://raw.githubusercontent.com/nazimamin/HotelManagement/master/HotelManagement/assets/toast.PNG "Toast confirmation")
+![Alt text](https://raw.githubusercontent.com/hiccup1991/HotelManagement/master/HotelManagement/assets/login.PNG "Login window")
+![ScreenShot](https://raw.githubusercontent.com/hiccup1991/HotelManagement/master/HotelManagement/assets/payment.PNG "Payment window")
+![ScreenShot](https://raw.githubusercontent.com/hiccup1991/HotelManagement/master/HotelManagement/assets/food.PNG "Food selection window")
+![ScreenShot](https://raw.githubusercontent.com/hiccup1991/HotelManagement/master/HotelManagement/assets/front.PNG "Front reservation window")
+![ScreenShot](https://raw.githubusercontent.com/hiccup1991/HotelManagement/master/HotelManagement/assets/roomservice.PNG "Room service window")
+![ScreenShot](https://raw.githubusercontent.com/hiccup1991/HotelManagement/master/HotelManagement/assets/toast.PNG "Toast confirmation")
 
 
 
